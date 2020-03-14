@@ -16422,6 +16422,6 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Swatch and Admin are the required fields in the each row.","Swatch and Admin are the required fields in the each row.",lib,web
 "Insert Variable","Insert Variable",lib,web
 "Insert Widget","Insert Widget",lib,web
-"The widget %1 is no longer available. Select a different widget.","The widget %1 is no longer available. Select a different widget.",lib,web
-"First character must be letter.","First character must be letter.",lib,web
-"The password can't be the same as the email address. Create a new password and try again.","The password can't be the same as the email address. Create a new password and try again.",lib,web
+"The widget %1 is no longer available. Select a different widget.","Widget a %1 edi ne berdeste. Widget eke din bijbere.",lib,web
+"First character must be letter.","Karaktera yekemin gere herfek be.",lib,web
+"The password can't be the same as the email address. Create a new password and try again.","Password u email adres nikarin wake hev bibin. Password eke nu cebike u disa biceribine.",lib,web

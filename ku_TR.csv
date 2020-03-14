@@ -45,16 +45,16 @@
 "Please select messages.","Please select messages.",module,Magento_AdminNotification
 "A total of %1 record(s) have been marked as Read.","A total of %1 record(s) have been marked as Read.",module,Magento_AdminNotification
 "Total of %1 record(s) have been removed.","Total of %1 record(s) have been removed.",module,Magento_AdminNotification
-"We couldn't remove the messages because of an error.","We couldn't remove the messages because of an error.",module,Magento_AdminNotification
-"The message has been removed.","The message has been removed.",module,Magento_AdminNotification
-"1 Hour","1 Hour",module,Magento_AdminNotification
-"2 Hours","2 Hours",module,Magento_AdminNotification
-"6 Hours","6 Hours",module,Magento_AdminNotification
-"12 Hours","12 Hours",module,Magento_AdminNotification
-"24 Hours","24 Hours",module,Magento_AdminNotification
+"We couldn't remove the messages because of an error.","Ev mesaj ji ber xetaki nehate jebirin.",module,Magento_AdminNotification
+"The message has been removed.","Ev mesaj hate jebirin.",module,Magento_AdminNotification
+"1 Hour","Seatek",module,Magento_AdminNotification
+"2 Hours","2 Saet",module,Magento_AdminNotification
+"6 Hours","6 Saet",module,Magento_AdminNotification
+"12 Hours","12 Saet",module,Magento_AdminNotification
+"24 Hours","24 Saet",module,Magento_AdminNotification
 "critical","critical",module,Magento_AdminNotification
-"major","major",module,Magento_AdminNotification
-"minor","minor",module,Magento_AdminNotification
+"major","mazin",module,Magento_AdminNotification
+"minor","pichuk",module,Magento_AdminNotification
 "notice","notice",module,Magento_AdminNotification
 "Wrong message type","Wrong message type",module,Magento_AdminNotification
 "Wrong notification ID specified.","Wrong notification ID specified.",module,Magento_AdminNotification
@@ -133,8 +133,8 @@
 "The wish list item is not loaded.","The wish list item is not loaded.",module,Magento_AdvancedCheckout
 "An error has occurred. See error log for details.","An error has occurred. See error log for details.",module,Magento_AdvancedCheckout
 "You cannot configure a product.","You cannot configure a product.",module,Magento_AdvancedCheckout
-"You removed the items.","You removed the items.",module,Magento_AdvancedCheckout
-"You removed the item.","You removed the item.",module,Magento_AdvancedCheckout
+"You removed the items.","We ev tishtan jebirin.",module,Magento_AdvancedCheckout
+"You removed the item.","We ev tisht jebir.",module,Magento_AdvancedCheckout
 "You added %1 to your shopping cart.","You added %1 to your shopping cart.",module,Magento_AdvancedCheckout
 "You cannot add a product.","You cannot add a product.",module,Magento_AdvancedCheckout
 "Order by SKU","Order by SKU",module,Magento_AdvancedCheckout
@@ -148,7 +148,7 @@
 "This product is assigned to another website.","This product is assigned to another website.",module,Magento_AdvancedCheckout
 "You can add only enabled products.","You can add only enabled products.",module,Magento_AdvancedCheckout
 "You cannot upload this file.","You cannot upload this file.",module,Magento_AdvancedCheckout
-"The file is empty.","The file is empty.",module,Magento_AdvancedCheckout
+"The file is empty.","Ev file a vala ye.",module,Magento_AdvancedCheckout
 "You have not entered a product SKU. Please <a href=""%1"">click here</a> to add product(s) by SKU.","You have not entered a product SKU. Please <a href=""%1"">click here</a> to add product(s) by SKU.",module,Magento_AdvancedCheckout
 "You have not entered a product SKU.","You have not entered a product SKU.",module,Magento_AdvancedCheckout
 "We can't add a product to cart by id ""%1"".","We can't add a product to cart by id ""%1"".",module,Magento_AdvancedCheckout
